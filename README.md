@@ -88,7 +88,7 @@ Employee Engagement Survey Dataset from Maven Analytics.
 
 📷 Dashboard Preview
 
-![Employee Engagement Dashboard](EmployeeEngagementSurveyDashboard.png)
+![Employee Engagement Dashboard](Employee-Engagement-Survey-Dashboard.png)
 
 
 🚀 Project Outcome
