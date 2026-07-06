@@ -108,4 +108,3 @@ Data Visualization
 Insight Generation
 Storytelling with Data
 
-This section helps recruiters quickly understand what you practiced in the project
